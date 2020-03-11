@@ -5,6 +5,8 @@ public class secondclass {
         System.out.println("it worked out ");
 System.out.println("hope it will work");
 
+      System.out.println("secondclass changes");
+
         
     }
 }
