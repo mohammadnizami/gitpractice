@@ -4,5 +4,6 @@ public class gitpractice {
         String str1 = "java is fun";
 
         System.out.println(str + " and " + " " +str1);
+        System.out.println(str);
     }
 }
