@@ -7,5 +7,6 @@ public class gitpractice {
         System.out.println(str);
         System.out.println(str1);
         System.out.println("last print");
+
     }
 }
