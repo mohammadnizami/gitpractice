@@ -5,9 +5,9 @@ public class students extends person{
      super(age);
   
  }
-}
-public static void main (String [] args){
-}
+
+public static void main (String [] args) {
+}}
 
 
 
