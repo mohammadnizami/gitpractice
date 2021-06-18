@@ -1,3 +1,5 @@
+package java;
+
 public class gitpractice {
     public static void main(String[] args) {
         String   str = "hello java";
