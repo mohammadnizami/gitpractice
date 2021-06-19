@@ -1,7 +1,5 @@
 blue
 red
-
 green
-
 yellow
 
