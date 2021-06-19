@@ -3,7 +3,11 @@ this is the last
 green and black
 orange
 yellow
+<<<<<<< HEAD
 white
+=======
+black
+>>>>>>> 738311cfebb3f63572992815d6288bfee4478a62
 
 
 
