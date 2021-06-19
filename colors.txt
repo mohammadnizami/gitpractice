@@ -1,9 +1,7 @@
 blue
 red
 green
-yellow
-black
-brown
+
 
 
 
